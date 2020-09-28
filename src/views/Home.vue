@@ -1,8 +1,8 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-  </div>
+<div class="home">
+  <img alt="Vue logo" src="../assets/logo.png" />
+  <HelloWorld msg="vuecli 测试页面" />
+</div>
 </template>
 
 <script>

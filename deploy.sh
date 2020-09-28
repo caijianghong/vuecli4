@@ -9,7 +9,7 @@ npm run build
 cd dist
 
 # 部署到自定义域域名
-echo 'www.vuecli4.com' > 'https://caijianghong.github.io/vuecli4/'
+# echo 'www.example.com' > CNAME
 
 # 提交到本地仓库
  

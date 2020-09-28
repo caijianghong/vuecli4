@@ -5,7 +5,7 @@ const resolve = dir => {
 // const BASE_URL = '/'
 module.exports={
     // publicPath: process.env.NODE_ENV === "production" ? "/vuecli4/" : "/",
-    publicPath: process.env.NODE_ENV === "production" ? "" : "/",
+    publicPath: "",
     lintOnSave: true,
     productionSourceMap: true,
     chainWebpack: config => {
